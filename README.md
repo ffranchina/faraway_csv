@@ -1,6 +1,6 @@
 # Faraway datasets converted to CSV
 Faraway datasets are often used to practice in the data science field.
-These datasets are usedy only in the R ecosystem and the raw data are distributed as binary R format. Now they are easily accessible in a free format to be used in any language.
+These datasets are used only in the R ecosystem and the raw data are distributed as binary R format. Now they are easily accessible in a free format to be used in any language.
 
 ## Last updated: 11-10-2017
 
