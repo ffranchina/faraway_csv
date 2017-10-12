@@ -1,3 +1,5 @@
+#!/usr/bin/Rscript
+
 args <- commandArgs(trailingOnly=TRUE)
 
 rda_filename <- args[1]
